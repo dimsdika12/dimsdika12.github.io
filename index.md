@@ -1,6 +1,6 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
-
+<head>
 
 # Selamat Datang di Situs Saya
 
