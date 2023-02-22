@@ -1,0 +1,12 @@
+```
+title:  Portofolio
+description: Deskripsi portofolio
+theme: jekyll-theme-cayman
+markdown: kramdown
+url: "https://dimsdika12.github.io"
+baseurl: ""
+exclude: [vendor]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+```
