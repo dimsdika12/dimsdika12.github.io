@@ -1,6 +1,6 @@
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
-<head>
+
 
 # Selamat Datang di Situs Saya
 
@@ -19,3 +19,4 @@ Saya telah membangun beberapa proyek yang menarik, termasuk:
 - [Proyek 3](/proyek3): Deskripsi proyek 3
 
 Terima kasih telah berkunjung ke situs saya!
+<head>
