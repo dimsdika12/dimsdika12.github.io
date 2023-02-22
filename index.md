@@ -4,7 +4,7 @@ Ini adalah situs web saya. Saya senang Anda datang ke sini. Silakan jelajahi sit
 
 ## Tentang Saya
 
-Saya adalah seorang pengembang perangkat lunak dengan pengalaman lebih dari 5 tahun. Saya suka membangun aplikasi yang bermanfaat bagi orang lain.
+Saya adalah seorang data analyts dengan pengalaman lebih dari 5 tahun. Saya suka membangun aplikasi yang bermanfaat bagi orang lain.
 
 ## Karya Saya
 
