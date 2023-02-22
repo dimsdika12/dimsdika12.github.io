@@ -1,4 +1,4 @@
-```
+---
 title:  Portofolio
 description: Deskripsi portofolio
 theme: jekyll-theme-cayman
@@ -9,4 +9,4 @@ exclude: [vendor]
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-```
+---
