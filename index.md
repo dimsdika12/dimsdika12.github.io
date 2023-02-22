@@ -10,7 +10,7 @@ Saya adalah seorang data analyts dengan pengalaman lebih dari 5 tahun. Saya suka
 
 Saya telah membangun beberapa proyek yang menarik, termasuk:
 
-- [Proyek 1](/proyek1): Deskripsi proyek 1
+- [Proyek 1](/Proyek 1.md): Deskripsi proyek 1
 - [Proyek 2](/proyek2): Deskripsi proyek 2
 - [Proyek 3](/proyek3): Deskripsi proyek 3
 
