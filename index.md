@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<head>
+
 # Selamat Datang di Situs Saya
 
 Ini adalah situs web saya. Saya senang Anda datang ke sini. Silakan jelajahi situs ini dan lihat-lihat karya saya.
